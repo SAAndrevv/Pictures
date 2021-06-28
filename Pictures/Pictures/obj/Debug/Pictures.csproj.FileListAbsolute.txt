@@ -1,0 +1,10 @@
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\bin\Debug\Pictures.exe.config
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\bin\Debug\Pictures.exe
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\bin\Debug\Pictures.pdb
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\obj\Debug\Pictures.csproj.AssemblyReference.cache
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\obj\Debug\Pictures.Form1.resources
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\obj\Debug\Pictures.Properties.Resources.resources
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\obj\Debug\Pictures.csproj.GenerateResource.cache
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\obj\Debug\Pictures.csproj.CoreCompileInputs.cache
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\obj\Debug\Pictures.exe
+C:\Users\SAAnd\source\repos\VisualProgramming\Pictures\Pictures\obj\Debug\Pictures.pdb
